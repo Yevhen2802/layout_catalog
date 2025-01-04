@@ -1,6 +1,7 @@
 .card__button:hover {
   color: $color-blue-accent;
   background-color: $color-white;
+  border: 1px solid $color-blue-accent;
   transition-duration: $transition-duration;
 }
 
